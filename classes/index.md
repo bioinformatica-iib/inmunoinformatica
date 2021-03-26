@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Theoretical Classess
+title: Theoretical Classes
 permalink: /classes/
 has_children: true
 has_toc: true
+nav_order : 3
 ---
 
-# Class 1
+# Classes

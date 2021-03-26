@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Class 4
 permalink: /class_4/
 parent: Theoretical Classes
