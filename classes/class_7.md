@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 7
-permalink: /class_7/
-parent: Theoretical Classes
+title: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 
+permalink: classes/class-7/
 ---
 
-# Class 7
+# De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 

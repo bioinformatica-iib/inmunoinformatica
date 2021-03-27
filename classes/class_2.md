@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 2
-permalink: /class_2/
-parent: Theoretical Classes
+title: Introduction and Basic Immunology
+permalink: classes/class-2/
 ---
 
-# Class 2
+# T-Cell Epitopes

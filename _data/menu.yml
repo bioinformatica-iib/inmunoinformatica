@@ -1,0 +1,38 @@
+- label: Course Classes & Materials
+  items:
+    - name: Home
+      link: /
+      items: 
+        - name: About the Course
+          link: /about/
+        - name: Course Programme
+          link: /programme/          
+        - name: Schedule
+          link: /schedule/
+        - name: Evaluation
+          link: /evaluation/
+    - name: Classes
+      link: /classes
+      items:
+        - name: Introduction and Basic Immunology
+          link: /classes/class-1/
+        - name: T-Cell Epitopes
+          link: /classes/class-2/
+        - name: Antigen Processing and Presentation, HLA Clustering, and Vaccine Design
+          link: /classes/class-3/
+        - name: Protein Structure of B-/T-Cell Receptors and B-Cell Epitopes
+          link: /classes/class-4/
+        - name: Immunopeptidomics, T-Cell Repertoires and the IEDB
+          link: /classes/class-5/
+        - name: Antibody Humanization and T-Cell Interaction Models
+          link: /classes/class-6/
+        - name: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy        
+          link: /classes/class-7/
+    - name: Team Project
+      link: /team-project/
+      items:  
+        - name: Instructions
+          link: /team-project/instructions/
+        - name: Ideas
+          link: /team-project/ideas/
+        

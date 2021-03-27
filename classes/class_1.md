@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 1
-permalink: /class_1/
-parent: Theoretical Classes
+title: Introduction and Basic Immunology
+permalink: classes/class-1/
 ---
 
-# Class 1
+# Introduction and Basic Immunology

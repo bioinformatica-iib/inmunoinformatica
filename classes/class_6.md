@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 6
-permalink: /class_6/
-parent: Theoretical Classes
+title: Antibody Humanization and T-Cell Interaction Models
+permalink: classes/class-6/
 ---
 
-# Class 6
+# Antibody Humanization and T-Cell Interaction Models

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 4
-permalink: /class_4/
-parent: Theoretical Classes
+title: Protein Structure of B-/T-Cell Receptors and B-Cell Epitopes
+permalink: classes/class-4/
 ---
 
-# Class 4
+# Protein Structure of B-/T-Cell Receptors and B-Cell Epitopes

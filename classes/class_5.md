@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Class 5
-permalink: /class_5/
-parent: Theoretical Classes
+title: Immunopeptidomics, T-Cell Repertoires and the IEDB
+permalink: classes/class-5/
 ---
 
-# Class 5
+# Immunopeptidomics, T-Cell Repertoires and the IEDB
