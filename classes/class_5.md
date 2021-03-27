@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Immunopeptidomics, T-Cell Repertoires and the IEDB
 permalink: classes/class-5/
 disqus_id: class-5

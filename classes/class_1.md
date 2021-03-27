@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Introduction and Basic Immunology
 permalink: classes/class-1/
 disqus_id: class-1
