@@ -35,8 +35,3 @@ The evaluated exercises/projects will be done in groups.
 
 Exercises for each of the 8 lectures with exercises and a larger group project to be presented as a poster or by power point presentation.
 Remarks
-
-## REMARKS TO ASSESSMENT:
-
-- The grade will be based on an oral test given the last two days of the course period.
-- This exam will cover basic theory and what has been covered in the practical exercises and the poster/powerpoint presentation will be the outcome of a small project performed in the last half of the course period.
