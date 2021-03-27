@@ -3,6 +3,7 @@ layout: default
 title: Introduction and Basic Immunology
 permalink: classes/class-2/
 disqus_id: class-2
+comments: true
 menubar_toc: true
 ---
 

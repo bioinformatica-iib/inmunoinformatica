@@ -3,6 +3,7 @@ layout: default
 title: Protein Structure of B-/T-Cell Receptors and B-Cell Epitopes
 permalink: classes/class-4/
 disqus_id: class-4
+comments: true
 menubar_toc: true
 ---
 
