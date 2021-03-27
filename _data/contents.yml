@@ -1,18 +1,14 @@
 - label: Course Classes & Materials
   items:
-    - name: Home
+    - name: General Information
       link: /
       items: 
         - name: About the Course
-          link: /about/
-        - name: Course Programme
-          link: /programme/          
-        - name: Schedule
-          link: /schedule/
-        - name: Evaluation
-          link: /evaluation/
+          link: /about/    
+        - name: Course Schedule
+          link: /about/schedule/
     - name: Classes
-      link: /classes
+      link: #
       items:
         - name: Introduction and Basic Immunology
           link: /classes/class-1/
@@ -29,7 +25,7 @@
         - name: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy        
           link: /classes/class-7/
     - name: Team Project
-      link: /team-project/
+      link: #/
       items:  
         - name: Instructions
           link: /team-project/instructions/

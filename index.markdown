@@ -6,5 +6,7 @@ title: Inmunoinformatics Course
 subtitle: IIBio-UNSAM
 layout: page
 show_sidebar: false
-menubar: menu
+menubar: contents
 ---
+
+![flyer]({{ site.baseurl }}/img/flyer-inmunoinfo.png)
