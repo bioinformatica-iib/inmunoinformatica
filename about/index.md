@@ -33,5 +33,5 @@ Introduction to immunological bioinformatics, the immune system, cellular immuni
 The first part will be lectures in the morning and practical exercises in the afternoon. Second part will be project work combined with lectures of invited speakers.
 The evaluated exercises/projects will be done in groups.
 
-Exercises for each of the 8 lectures with exercises and a larger group project to be presented as a poster or by power point presentation.
-Remarks
+Exercises for each of the 7 lectures with exercises and a larger group project to be presented as a poster or by power point presentation.
+
