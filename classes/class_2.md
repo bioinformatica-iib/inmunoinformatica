@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Introduction and Basic Immunology
+title: T-Cell Epitopes
+subtitle: Class 2
 permalink: classes/class-2/
 disqus_id: class-2
 comments: true

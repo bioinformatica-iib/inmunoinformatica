@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Immunopeptidomics, T-Cell Repertoires and the IEDB
+subtitle: Class 5
 permalink: classes/class-5/
 disqus_id: class-5
 comments: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Antibody Humanization and T-Cell Interaction Models
+subtitle: Class 6
 permalink: classes/class-6/
 disqus_id: class-6
 comments: true

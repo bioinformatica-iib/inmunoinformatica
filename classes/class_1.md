@@ -1,13 +1,12 @@
 ---
 layout: page
 title: Introduction and Basic Immunology
+subtitle: Class 1
 permalink: classes/class-1/
 disqus_id: class-1
 comments: true
 menubar_toc: true
 ---
-
-## Introduction and Basic Immunology
 
 ### Course Introduction
 
