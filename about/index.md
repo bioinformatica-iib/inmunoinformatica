@@ -2,9 +2,9 @@
 layout: page
 title: Course Information
 permalink: /about/
-has_children: true
-has_toc : true
+menubar_toc: true
 nav_order : 2
+hide_hero: True
 ---
 
 ## General course objectives

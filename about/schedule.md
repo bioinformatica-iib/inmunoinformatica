@@ -3,7 +3,16 @@ layout: page
 title: Course Schedule
 permalink: /about/schedule/
 parent: Course Information
+hide_hero: True
 ---
+
+<style>
+    .table td {
+        max-width:500px;
+    }
+</style>
+
+<div class="table">
 
 | Date       | Morning  | Afternoon                                                      |
 | ---------- | -------- | -------------------------------------------------------------- |
@@ -32,7 +41,11 @@ parent: Course Information
 | | Exercise: Antibody Humanization | Exercise: Single cell technologies for T-cell epitopes |
 | | Single cell technologies for T-cell epitopes<br>Single Cell and NetTCR Project | |
 | | Modelling TCRpMHC interactions | |
-| 25/05/2021 | **Holiday: Día de la Patria Argentina** |
+
+{% include notification.html message="HOLIDAY : Día de la Patria Argentina" status="is-info" %}
+
+|        | |
+| :---------- | :-- |
 | 01/06/2021 | **De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy** |
 | | Protein Drug Deimmunization | Live: Exercise recap |
 | | Exercise: Protein Drug Deimmunization | Exercise: CAR T-cell humanisation and de-immunisation |
@@ -53,3 +66,5 @@ parent: Course Information
 |        | |
 | :---------- | :-- |
 | 22/06/2021 | **EXAM** |
+
+</div>
