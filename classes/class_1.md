@@ -11,9 +11,6 @@ hide_hero: True
 - [Slides](https://drive.google.com/file/d/1G8qlYmIyX-gYTdqBYOU2eSHSy2djYCPJ/view?usp=sharing)
 - [Recording]({{ site.baseurl }}/unavailable-yet)
 
-{{ site.url }}
-
-
 ## Micro Project Group Work
 
 Make sure to read through all of this page before starting the micro-project
