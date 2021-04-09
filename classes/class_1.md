@@ -8,8 +8,8 @@ hide_hero: True
 
 ## Course Introduction
 
-- [Slides](https://drive.google.com/file/d/1G8qlYmIyX-gYTdqBYOU2eSHSy2djYCPJ/view?usp=sharing)
-- [Recording]({{ site.baseurl }}/unavailable-yet)
+- Slides [[PDF]](https://drive.google.com/file/d/1G8qlYmIyX-gYTdqBYOU2eSHSy2djYCPJ/view?usp=sharing)
+- Recording [[MP4]]({{ site.baseurl }}/unavailable-yet)
 
 ## Micro Project Group Work
 
@@ -43,8 +43,8 @@ This course requires a working understanding of the bio-molecular mechanisms und
 
 *In total, you will have ~4h including lunch to work on this micro-project, so stay focused! I know, that most likely this is quite different from what you are used to, but I hope you will keep an open mind and remember that research into teaching and learning clearly indicate that this setup is effective for you to do “better learning” - Enjoy learning!*
 
-- [Micro Project Guidelines](https://drive.google.com/file/d/1px17QgCvIgIDcDY5vGwKCbgIYr6Awuaq/view?usp=sharing)
-- [Presentations]({{ site.baseurl }}/unavailable-yet)
+- Micro Project Guidelines [[PDF]](https://drive.google.com/file/d/1px17QgCvIgIDcDY5vGwKCbgIYr6Awuaq/view?usp=sharing)
+- Presentations [[MP4]]({{ site.baseurl }}/unavailable-yet)
 
 ### Remarks
 
