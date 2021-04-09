@@ -9,7 +9,7 @@ hide_hero: True
 ## Course Introduction
 
 - [Slides](https://drive.google.com/file/d/1G8qlYmIyX-gYTdqBYOU2eSHSy2djYCPJ/view?usp=sharing)
-- [Recording](unavailable-yet)
+- [Recording](/unavailable-yet)
 
 ## Micro Project Group Work
 
