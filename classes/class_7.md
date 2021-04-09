@@ -3,9 +3,10 @@ layout: default
 title: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 
 subtitle: Class 7
 permalink: classes/class-7/
-disqus_id: class-7
-comments: true
+comments: false
 menubar_toc: true
+hide_hero: True
+published: False
 ---
 
 # De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 

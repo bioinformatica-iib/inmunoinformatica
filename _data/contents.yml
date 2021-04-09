@@ -13,17 +13,17 @@
         - name: Introduction and Basic Immunology
           link: /classes/class-1/
         - name: T-Cell Epitopes
-          link: /classes/class-2/
+          link: /unavailable-yet/
         - name: Antigen Processing and Presentation, HLA Clustering, and Vaccine Design
-          link: /classes/class-3/
+          link: /unavailable-yet/
         - name: Protein Structure of B-/T-Cell Receptors and B-Cell Epitopes
-          link: /classes/class-4/
+          link: /unavailable-yet/
         - name: Immunopeptidomics, T-Cell Repertoires and the IEDB
-          link: /classes/class-5/
+          link: /unavailable-yet/
         - name: Antibody Humanization and T-Cell Interaction Models
-          link: /classes/class-6/
+          link: /unavailable-yet/
         - name: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy        
-          link: /classes/class-7/
+          link: /unavailable-yet/
     - name: Team Project
       link: #/
       items:  

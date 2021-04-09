@@ -3,37 +3,32 @@ layout: page
 title: T-Cell Epitopes
 subtitle: Class 2
 permalink: classes/class-2/
-disqus_id: class-2
-comments: true
+comments: false
 menubar_toc: true
+hide_hero: True
+published: False
 ---
 
 ## T-Cell Epitopes
 
 ### Lecture: Prediction of MHC peptide binding (Part 1) 
 
-- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part1.pdf).
-- [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part1.mp4).
+- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part1.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part1.mp4).
 - [Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo.pdf).
-- [Answer Logo handout Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo_ans.pdf).
-- [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_Logo.mp4)
+- [Answer Logo handout Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo_ans.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_Logo.mp4)
 
 ### Lecture: Prediction of MHC peptide binding (Part 2)
 
-- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part2.pdf).
-- [Recording: [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part2.mp4).
-- [NN handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/NN_handout.pdf).
-- [NN handout Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_NN.mp4).
+- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part2.pdf) & [Recording: [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part2.mp4).
+- [NN handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/NN_handout.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_NN.mp4).
 
 ### Lecture: Prediction of MHC peptide binding (Part 3)
 
-- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part3.pdf)
-- [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part3.mp4).
+- [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part3.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part3.mp4).
 
 ### Performance measures
 
-- [Slides [PDF]](http://www.cbs.dtu.dk/courses/ILRI_workshop/presentations/Performance_measure.pdf).
-- [Recording [MP4]](http://www.cbs.dtu.dk/courses/22125/recordings/Performance_measure.mp4).
+- [Slides [PDF]](http://www.cbs.dtu.dk/courses/ILRI_workshop/presentations/Performance_measure.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/22125/recordings/Performance_measure.mp4).
 
 ## Learning Resources
 

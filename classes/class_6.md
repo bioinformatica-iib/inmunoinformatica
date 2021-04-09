@@ -3,9 +3,10 @@ layout: page
 title: Antibody Humanization and T-Cell Interaction Models
 subtitle: Class 6
 permalink: classes/class-6/
-disqus_id: class-6
-comments: true
+comments: false
 menubar_toc: true
+hide_hero: True
+published: False
 ---
 
 # Antibody Humanization and T-Cell Interaction Models

@@ -3,9 +3,10 @@ layout: page
 title: Antigen Processing and Presentation, HLA Clustering, and Vaccine Design
 subtitle: Class 3
 permalink: classes/class-3/
-comments: true
-disqus_id: class-3
+comments: false
 menubar_toc: true
+hide_hero: True
+published: False
 ---
 
 ## Antigen Processing and Presentation, HLA Clustering, and Vaccine Design
