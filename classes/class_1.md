@@ -50,7 +50,7 @@ This course requires a working understanding of the bio-molecular mechanisms und
 
 <iframe src="https://drive.google.com/file/d/1_uKobYHV82glUBTcGNMgOVqZWraW7WTj/preview" width="800" height="440"></iframe>
 
-- Group Final Presentations [[MP4]]({{ site.baseurl }}/unavailable-yet)
+- Group Final Presentations [[MP4]](https://drive.google.com/file/d/1eiasHllQcAHgVvWSrZbGgwje-W3dOz37/view?usp=sharing)
 
 <iframe src="https://drive.google.com/file/d/1eiasHllQcAHgVvWSrZbGgwje-W3dOz37/preview" width="800" height="440"></iframe>
 
