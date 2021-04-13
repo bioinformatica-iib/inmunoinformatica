@@ -47,12 +47,7 @@ This course requires a working understanding of the bio-molecular mechanisms und
 
 - Micro Project Guidelines [[PDF]](https://drive.google.com/file/d/1px17QgCvIgIDcDY5vGwKCbgIYr6Awuaq/view?usp=sharing)
 - Group Brainstorming Presentations [[MP4]](https://drive.google.com/file/d/1_uKobYHV82glUBTcGNMgOVqZWraW7WTj/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/1_uKobYHV82glUBTcGNMgOVqZWraW7WTj/preview" width="800" height="440"></iframe>
-
 - Group Final Presentations [[MP4]](https://drive.google.com/file/d/1eiasHllQcAHgVvWSrZbGgwje-W3dOz37/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/1eiasHllQcAHgVvWSrZbGgwje-W3dOz37/preview" width="800" height="440"></iframe>
 
 ### Remarks
 
