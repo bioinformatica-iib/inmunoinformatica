@@ -17,8 +17,9 @@ hide_hero: True
 | Date       | Async  | Tuesdays, Afternoon (13:00-17:00 [UTC-3])                                                      |
 | ---------- | -------- | -------------------------------------------------------------- |
 | 13/04/2021 |  **Introduction and Basic Immunology** |
-| | Course Introduction (**Live**: 9:00-12:00 [UTC-3])  | Live: Q&A Session  |
-| | Micro project group work (**Live**: 9:00-12:00 [UTC-3])  | Micro project group work |
+| | Course Introduction (Live: 9:00-9:30 [UTC-3])  | Micro project group work: In-depth presentation prep (Live: 11:00-14:00 [UTC-3])  |
+| | Micro project group work: Students Brainstorming (Live: 9:30-10:30 [UTC-3])  | Micro project group work: Final Presentations (Live: 14:00-16:00 [UTC-3])  |
+| | Micro project group work: Students Brainstorming Presentations (Live: 10:30-11:00 [UTC-3])  |  |
 | 20/04/2021 | **T-Cell Epitopes** |
 | | Prediction of MHC peptide binding.  | Live: Q&A Session |
 | | Performance measures.  | Exercise: Prediction of MHC:peptide binding using PSSM and ANN |
