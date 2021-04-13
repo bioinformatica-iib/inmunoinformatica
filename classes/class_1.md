@@ -52,6 +52,8 @@ This course requires a working understanding of the bio-molecular mechanisms und
 
 - Group Final Presentations [[MP4]]({{ site.baseurl }}/unavailable-yet)
 
+<iframe src="https://drive.google.com/file/d/1eiasHllQcAHgVvWSrZbGgwje-W3dOz37/preview" width="800" height="440"></iframe>
+
 ### Remarks
 
 - Make sure you state your "10 things" as questions
