@@ -15,7 +15,7 @@ published: True
 {% include badge-title.html text="ASYNC" badge="primary" titleh="3" title="Lecture: Prediction of MHC peptide binding (Part 1)" %}
 
 - [Slides [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/MHCbinding_2020_part1.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/MHC_part1.mp4){:target="_blank"}
-- [Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo.pdf){:target="_blank"}
+- [Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo.pdf){:target="_blank"} & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_Logo.mp4){:target="_blank"}]
 
 <details style="padding-left:25px">
 
@@ -23,7 +23,7 @@ published: True
     Answer to the Logo handaout (Don't peek!)
   </summary>
 
-  - [Answers Logo handout Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo_ans.pdf) & [Recording [MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Ex_Logo.mp4){:target="_blank"}
+  - [Answers Logo handout Logo handout [PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ex_Logo_ans.pdf)
   
 </details>
 
