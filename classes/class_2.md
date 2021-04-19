@@ -62,6 +62,7 @@ published: True
 - [Paper: T Cell Epitope Predictions](https://www.annualreviews.org/doi/10.1146/annurev-immunol-082119-124838)
 
 ### Optional
+- [Paper: Seq2Logo: a method for construction and visualization of amino acid binding motifs and sequence profiles including sequence weighting, pseudo counts and two-sided representation of amino acid enrichment and depletion](https://drive.google.com/file/d/12CP1IzOVJHcc6Q6Mzy75KwEVz8nbS6B4/view?usp=sharing)
 - [Paper: Simultaneous alignment and clustering of peptide data using a Gibbs sampling approach](https://www.ncbi.nlm.nih.gov/pubmed/23097419)
 - [Paper: A Quantitative Analysis of the Variables Affecting the Repertoire of T Cell Specificities Recognized after Vaccinia Virus Infection](http://www.jimmunol.org/content/178/12/7890.long)
 - [Paper: Identification and HLA-tetramer-validation of human CD4+ and CD8+ T cell responses against HCMV proteins IE1 and IE2](https://www.ncbi.nlm.nih.gov/pubmed/24760079)
