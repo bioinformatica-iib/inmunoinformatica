@@ -57,12 +57,12 @@ published: True
 
 ### Required
 
-- [Book: Immuno. Bioinfo. Ch. 13](https://teaching.healthtech.dtu.dk/22145/images/a/aa/Lund_et_al_immunological_bioinformatics_2005_chapter_13.pdf)
-- [Book: Immuno. Bioinfo. Ch. 14](https://teaching.healthtech.dtu.dk/22145/images/b/ba/Lund_et_al_immunological_bioinformatics_2005_chapter_14.pdf)
-- [Paper: T Cell Epitope Predictions](https://www.annualreviews.org/doi/10.1146/annurev-immunol-082119-124838)
+- [Book: Immuno. Bioinfo. Ch. 3](https://teaching.healthtech.dtu.dk/22145/images/a/a8/Lund_et_al_immunological_bioinformatics_2005_chapter_3.pdf)
+- [Book: Immuno. Bioinfo. Ch. 4](https://teaching.healthtech.dtu.dk/22145/images/a/a2/Lund_et_al_immunological_bioinformatics_2005_chapter_4.pdf)
+- [Paper: Modeling the adaptive immune system: predictions and simulations](http://bioinformatics.oxfordjournals.org/cgi/reprint/23/24/3265)
+- [Paper: Immunoinformatics: Predicting Peptide–MHC Binding](https://www.annualreviews.org/doi/pdf/10.1146/annurev-biodatasci-021920-100259)
 
 ### Optional
 - [Paper: Seq2Logo: a method for construction and visualization of amino acid binding motifs and sequence profiles including sequence weighting, pseudo counts and two-sided representation of amino acid enrichment and depletion](https://drive.google.com/file/d/12CP1IzOVJHcc6Q6Mzy75KwEVz8nbS6B4/view?usp=sharing)
-- [Paper: Simultaneous alignment and clustering of peptide data using a Gibbs sampling approach](https://www.ncbi.nlm.nih.gov/pubmed/23097419)
-- [Paper: A Quantitative Analysis of the Variables Affecting the Repertoire of T Cell Specificities Recognized after Vaccinia Virus Infection](http://www.jimmunol.org/content/178/12/7890.long)
-- [Paper: Identification and HLA-tetramer-validation of human CD4+ and CD8+ T cell responses against HCMV proteins IE1 and IE2](https://www.ncbi.nlm.nih.gov/pubmed/24760079)
+- [Paper: NNAlign_MA; MHC Peptidome Deconvolution for Accurate MHC Binding Motif Characterization and Improved T-cell Epitope Predictions](https://www.mcponline.org/content/18/12/2459.long)
+- [Paper: Improved Prediction of MHC II Antigen Presentation through Integration and Motif Deconvolution of Mass Spectrometry MHC Eluted Ligand Data](https://pubs.acs.org/doi/10.1021/acs.jproteome.9b00874)
