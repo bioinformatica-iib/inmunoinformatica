@@ -8,6 +8,8 @@ hide_hero: True
 published: True
 ---
 
+{% include notification.html message="This module includes answers to quizes and exercises. Try to solve them on your own and only use them once you've done that." status="is-info" %}
+
 {% include badge-title.html text="ASYNC" badge="primary" titleh="2" title="Antigen Processing and Presentation, HLA Clustering, and Vaccine Design" %}
 
 ### MHC motif deconvolution - Identifying sequence motifs in large scale ligand data sets [MN]. 
@@ -22,11 +24,28 @@ published: True
 
 - Session materials: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Vaccine_design_2019.pdf). Recording: [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/Vaccine_design_2019.mp4).
 
-{% include badge-title.html text="SYNC" badge="success" titleh="2" title="Quizes and Exercises" %}
+### Quiz!
 
-- [Exercise]({{ site.baseurl }}/unavailable-yet)
 - [Quiz: MHC processing, epitope discovery and vaccine design]({{ site.baseurl }}/unavailable-yet)
 
+{% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
+
+- [Exercise Recap]({{ site.baseurl }}/unavailable-yet)
+- [Exercise: Development of vaccines against HCV [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021.php)
+
+<details style="padding-left:25px">
+
+  <summary markdown="span">
+    Answers (Don't peek!)
+  </summary>
+
+  - [Anwsers: Prediction of MHC:peptide binding using PSSM and ANN [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021_ans.php){:target="_blank"}
+  
+</details>
+
+
+
+ 
 ## Learning Resources
 
 ### Required
