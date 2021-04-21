@@ -24,8 +24,8 @@ published: True
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="Quizes and Exercises" %}
 
-- [Exercicse](/unavailable-yet/)
-- [Quiz: MHC processing, epitope discovery and vaccine design](/unavailable-yet/)
+- [Exercise]({{ site.baseurl }}/unavailable-yet)
+- [Quiz: MHC processing, epitope discovery and vaccine design]({{ site.baseurl }}/unavailable-yet)
 
 ## Learning Resources
 
