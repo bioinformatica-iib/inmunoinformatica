@@ -38,9 +38,12 @@ published: True
 {% include badge-title.html text="ASYNC" badge="primary" titleh="3" title="Performance measures" %}
 - [Slides [PDF]](http://www.cbs.dtu.dk/courses/ILRI_workshop/presentations/Performance_measure.pdf){:target="_blank"} & [Recording [MP4]](http://www.cbs.dtu.dk/courses/22125/recordings/Performance_measure.mp4){:target="_blank"}.
 
-{% include badge-title.html text="SYNC" badge="success" titleh="3" title="Module Quiz and Exercises" %}
+{% include badge-title.html text="ASYNC" badge="primary" titleh="3" title="Module Quiz" %}
 
 - [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSd-SLKWX4uCTitk0lOBeiODBx1T39mOuEWjE01TOTAx6iR68g/viewform?usp=sf_link){:target="_blank"}
+
+{% include badge-title.html text="SYNC" badge="success" titleh="3" title="Q&A + Exercise" %}
+
 - [Prediction of MHC:peptide binding using PSSM and ANN](http://www.cbs.dtu.dk/courses/27685.imm/exercise_MHC_bind/exercise_2019.php){:target="_blank"}
 
 <details style="padding-left:25px">
@@ -52,6 +55,9 @@ published: True
   - [Anwsers: Prediction of MHC:peptide binding using PSSM and ANN [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_MHC_bind/exercise_2019_ans.php){:target="_blank"}
   
 </details>
+
+- [Q&A Session [MP4]](https://drive.google.com/file/d/1Vr8oxD2YJJHW3Nq9LUqRJYY0FOgBPdiy/view?usp=sharing)
+- [Excercise Recap [MP4]](https://drive.google.com/file/d/1H7tyFCJwTyRuj_K0etBLxQ8ZmvYElLk9/view?usp=sharing)
 
 ## Learning Resources
 
