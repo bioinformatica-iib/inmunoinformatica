@@ -26,11 +26,14 @@ published: True
 
 ### Quiz!
 
-- [Quiz: MHC processing, epitope discovery and vaccine design]({{ site.baseurl }}/unavailable-yet)
+- [Quiz: MHC processing, epitope discovery and vaccine design](https://docs.google.com/forms/d/e/1FAIpQLSdhBVcnQm9d1xQELIeK_IYJYUsZgt8JMgTOSsuh1kNLrk6S5g/viewform?usp=sf_link)
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
 
-- [Exercise Recap]({{ site.baseurl }}/unavailable-yet)
+<ul>
+<li><a href="http://www.cbs.dtu.dk/courses/27685.imm//recordings/QA_2021-01-06.mp4">Exercise Recap</a> {% include badge.html text="DTU edition" badge="danger" %}</li>
+</ul>
+
 - [Exercise: Development of vaccines against HCV [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021.php)
 
 <details style="padding-left:25px">
