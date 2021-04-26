@@ -42,7 +42,7 @@ published: True
     Answers (Don't peek!)
   </summary>
 
-  - [Anwsers: Prediction of MHC:peptide binding using PSSM and ANN [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021_ans.php){:target="_blank"}
+  - [Anwsers: Development of vaccines against HCV [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021_ans.php){:target="_blank"}
   
 </details>
 
