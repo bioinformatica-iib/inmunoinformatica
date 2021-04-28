@@ -52,7 +52,7 @@ Exercise Recap and Answers [[Youtube]](https://www.youtube.com/watch?v=8dzwdlKTU
 
 ### Optional
 
-[Paper: BepiPred 2.0](https://academic.oup.com/nar/article/3787843)
-[Paper: B-cell epitope prediction](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531324/)
-[Video: Simplified B-cell walkthrough (Nice and easy understandable explanation of B-cells)](http://www.youtube.com/watch?v=Z36dUduOk1Y)
-[Resource: PDB 101: Introduction to PDB Data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/)
+- [Paper: BepiPred 2.0](https://academic.oup.com/nar/article/3787843)
+- [Paper: B-cell epitope prediction](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531324/)
+- [Video: Simplified B-cell walkthrough (Nice and easy understandable explanation of B-cells)](http://www.youtube.com/watch?v=Z36dUduOk1Y)
+- [Resource: PDB 101: Introduction to PDB Data](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/)
