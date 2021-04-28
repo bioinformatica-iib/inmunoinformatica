@@ -30,6 +30,8 @@ published: True
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
 
+https://drive.google.com/file/d/1KtiFvRaIjkwb931y_3BEA7wFDV3WN6OM/view?usp=sharing
+
 <ul>
 <li><a href="http://www.cbs.dtu.dk/courses/27685.imm//recordings/QA_2021-01-06.mp4">Exercise Recap</a> {% include badge.html text="DTU edition" badge="danger" %}</li>
 </ul>
@@ -42,7 +44,8 @@ published: True
     Answers (Don't peek!)
   </summary>
 
-  - [Anwsers: Development of vaccines against HCV [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021_ans.php){:target="_blank"}
+- [Q&A Session [MP4]](https://drive.google.com/file/d/1KtiFvRaIjkwb931y_3BEA7wFDV3WN6OM/view?usp=sharing)
+- [Anwsers: Development of vaccines against HCV [Web]](http://www.cbs.dtu.dk/courses/27685.imm/exercise_HCVVaccine/exercise_HCVVaccine_2021_ans.php){:target="_blank"}
   
 </details>
 
