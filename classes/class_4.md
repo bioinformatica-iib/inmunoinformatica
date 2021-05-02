@@ -17,7 +17,6 @@ published: True
 ### Antibody and TCR modeling
 
 - Lecture: Slides [[PDF]](https://teaching.healthtech.dtu.dk/22145/images/2/2a/Antibody_structure.pdf) & Recording [[YouTube]](https://www.youtube.com/watch?v=HP-zcAugLkk)
-- Exercise - Antibody Modelling: Intro [[YouTube]](https://youtu.be/5t7aUkXVuwk) & Questions [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/Antibody_Structure_Prediction_and_Analysis)
 
 <details style="padding-left:25px">
 
@@ -33,11 +32,13 @@ Exercise Recap and Answers [[Youtube]](https://www.youtube.com/watch?v=8dzwdlKTU
 
 - Lecture: Linear B-cell epitope prediction. Slides [[PDF]](https://teaching.healthtech.dtu.dk/22145/images/6/69/Linear_epitope_prediction.pdf) & Recording [[YouTube]](https://youtu.be/Ukk5XJfuh6k)
 - Lecture: Conformational B-cell epitope prediction. Slides [[PDF]](https://teaching.healthtech.dtu.dk/22145/images/4/4c/Conformational_epitope_prediction.pdf) & Recording: [[YouTube]](https://youtu.be/xg8Wf4rNsqw)
+- Quiz (only Quiz 2 and Quiz 3)[[PDF]](https://teaching.healthtech.dtu.dk/22145/images/9/95/Immunological_bioinformatics_Quiz_1_2019.pdf)
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
 
-- Exercise: B cell epitope predictions [[Web]](http://www.cbs.dtu.dk/courses/27485.imm/epitope_2014.php)
-- Exercise recap ({{ site.baseurl }}/unavailable-yet)
+- Q&A (Including recap of last weeks' exercise)
+- Exercise - Antibody Modelling: Intro [[YouTube]](https://youtu.be/5t7aUkXVuwk) & Questions [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/Antibody_Structure_Prediction_and_Analysis)
+- Exercise - B cell epitope predictions: Questions [[Web]](http://www.cbs.dtu.dk/courses/27485.imm/epitope_2014.php)
 
 ## Learning Resources
 
