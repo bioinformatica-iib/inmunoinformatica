@@ -22,6 +22,9 @@ published: True
 
 - Lecture: Linear B-cell epitope prediction. Slides [[PDF]](https://teaching.healthtech.dtu.dk/22145/images/6/69/Linear_epitope_prediction.pdf) & Recording [[YouTube]](https://youtu.be/Ukk5XJfuh6k)
 - Lecture: Conformational B-cell epitope prediction. Slides [[PDF]](https://teaching.healthtech.dtu.dk/22145/images/4/4c/Conformational_epitope_prediction.pdf) & Recording: [[YouTube]](https://youtu.be/xg8Wf4rNsqw)
+
+### Quizes 
+
 - Quiz (only Quiz 2 and Quiz 3)[[PDF]](https://teaching.healthtech.dtu.dk/22145/images/9/95/Immunological_bioinformatics_Quiz_1_2019.pdf)
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
