@@ -53,7 +53,6 @@ Exercise Recap and Answers [[Youtube]](https://www.youtube.com/watch?v=8dzwdlKTU
 
 ### Suggested
 
-- [Mini Quiz]({{ site.baseurl }}/unavailable-yet)
 - [PyMol License](https://teaching.healthtech.dtu.dk/22145/images/d/d5/Pymol-edu-license-2021.txt)
 
 ### Required
