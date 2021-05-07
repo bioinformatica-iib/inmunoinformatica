@@ -51,12 +51,12 @@ Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ca
 
 ### Required
 
-- Video: Immunology wars: A billion antibodies
-- Video: Antibody (BCR) and TCR Diversity
-- Video: Antibody Somatic (VDJ) Recombination I
-- Video: Antibody Somatic (VDJ) Recombination II
-- Book: Kuby Ch. 7: The Organization and Expression of Lymphocyte Receptor Genes
-- Paper: The immune epitope database (IEDB) 3.0.
+- Video: [Immunology wars: A billion antibodies](https://www.youtube.com/watch?v=Na-Zc-xWCLE)
+- Video: [Antibody (BCR) and TCR Diversity](https://www.youtube.com/watch?v=JJmqt40Z3mM)
+- Video: [Antibody Somatic (VDJ) Recombination I](https://www.youtube.com/watch?v=h9mqsllg1Cs)
+- Video: [Antibody Somatic (VDJ) Recombination II](https://www.youtube.com/watch?v=_D2x-dhh6Pg)
+- Book: [Kuby Ch. 7: The Organization and Expression of Lymphocyte Receptor Genes](https://cn.inside.dtu.dk/cnnet/filesharing/download/8df4dfc2-e023-43b8-a2cd-1a00e1e902bc)
+- Paper: [The immune epitope database (IEDB) 3.0.](https://www.ncbi.nlm.nih.gov/pubmed/25300482)
 
 ### Optional
 
