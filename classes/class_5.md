@@ -15,6 +15,15 @@ published: True
 
 Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/Immunopeptidomics_2021.pdf) & Recording [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/Immunopeptidomics_CB.mp4)
 
+
+#### Exercise
+
+{% include notification.html message="You can find the guidelines for this exercise in the last two slides of the Lecture on Inmunopeptidomics" status="is-info" %}
+
+- File:Peptides-HD-DR2b.txt [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/File:Peptides-HD-DR2b.txt) 
+- File:Alleles-HD-DR2b.txt [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/File:Alleles-HD-DR2b.txt)
+- Answers [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/Exercise_guidelines_answers.pdf) & Recap [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/Live_exercise_recap_immunopeptidomics_IEDB_CB_BR.mp4)
+
 ### T-Cell Receptor Repertoires
 
 Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/20210108MV_Tcell_receptor_repertoires_updated.pdf) & Recording [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/20210108MV_Tcell_receptor_repertoires.mp4)
@@ -23,15 +32,8 @@ Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ca
 
 Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/2021_01_08_IEDB.pdf) & Recording [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/2021_01_08_IEDB_Presentation.mp4)
 
+
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
-
-### Exerciste: Inmunopeptidomics
-
-#### Exercise files:
-
-- [File:Peptides-HD-DR2b.txt](https://teaching.healthtech.dtu.dk/22145/index.php/File:Peptides-HD-DR2b.txt) 
-- [File:Alleles-HD-DR2b.txt](https://teaching.healthtech.dtu.dk/22145/index.php/File:Alleles-HD-DR2b.txt)
-- [Answers](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/Exercise_guidelines_answers.pdf)
 
 ### Exercise: T-Cell Receptor Reportoires
 
