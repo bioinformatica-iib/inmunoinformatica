@@ -13,7 +13,7 @@ published: True
 
 ### Immunopeptidomics
 
-Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/Immunopeptidomics_2021.pdf) & Recording [[MP4]]
+Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Carol/Immunopeptidomics_2021.pdf) & Recording [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/Immunopeptidomics_CB.mp4)
 
 ### T-Cell Receptor Repertoires
 
