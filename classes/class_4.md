@@ -31,7 +31,7 @@ published: True
 
 ### Q&A
 
-- Q&A (Including recap of last weeks' exercise)
+- Q&A (Including recap of last weeks' exercise) [[MP4]](https://drive.google.com/file/d/1pvHF2YPJ3a83SfcqrNyU6fYbvENONT2t/view?usp=sharing)
 
 ### Exercises 
 
@@ -47,7 +47,7 @@ Exercise Recap and Answers [[Youtube]](https://www.youtube.com/watch?v=8dzwdlKTU
   
 </details>
 
-- Exercise - B cell epitope predictions: Questions [[Web]](http://www.cbs.dtu.dk/courses/27485.imm/epitope_2014.php)
+- Exercise - B cell epitope predictions: Questions [[Web]](http://www.cbs.dtu.dk/courses/27485.imm/epitope_2014.php) & Recordings I [[MP4]](https://drive.google.com/file/d/1SMQcPySYMf6MFcUJa0LDLtvi3gX8JfJI/view?usp=sharing) / II [[MP4]](https://drive.google.com/file/d/12l0r4QTfHt5_qT1yAt2OfH1gtl1HHzGS/view?usp=sharing)
 
 ## Learning Resources
 
