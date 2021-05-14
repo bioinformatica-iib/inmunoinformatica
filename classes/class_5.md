@@ -35,6 +35,10 @@ Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ca
 
 {% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
 
+### QA 
+
+- Recording [[MP4]](https://drive.google.com/file/d/18ItFCXBuNzbPBtP5letFI4r36B12UokF/view?usp=sharing)
+
 ### Exercise: T-Cell Receptor Reportoires
 
 - Guidelines [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/T-Cell_Receptor_Repertoires#Retrieve_and_Upload_Repertoire_data)
