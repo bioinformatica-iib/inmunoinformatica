@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 
 subtitle: Class 7
 permalink: classes/class-7/
