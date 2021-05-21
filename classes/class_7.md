@@ -3,35 +3,38 @@ layout: default
 title: De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 
 subtitle: Class 7
 permalink: classes/class-7/
-comments: false
 menubar_toc: true
 hide_hero: True
-published: False
+published: True
 ---
 
-# De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy 
+{% include badge-title.html text="ASYNC" badge="primary" titleh="2" title="De-Immunization and Chimeric Antigen Receptor (CAR) Immunotherapy" %}
 
-{% if page.comments %}
+### Protein Drug Deimmunization
 
-## Forum
+- Lecture [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/deimmune_Presentation/2021_01_12_Deimmunization_22145.pdf) & Recordings [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/deimmune_Presentation/2021_01_12_DeimmunePresentation.mp4)
 
-<div id="disqus_thread"></div>
-<script>
+###  Humanization and deimmunization for cancer T cell therapy molecules
 
-    var disqus_config = function () {
-      this.page.url = '{{ page.url | absolute_url }}';
-      this.page.identifier = '{{ page.disqus_id }}';
-    };
+- Lecture [[PDF]](http://teaching.healthtech.dtu.dk/36685/images/8/87/Deimmunisation.pptx.pdf) & Recordings [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/Deimmunisation_CART-cells.mp4)
 
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://inmunoinformatics.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
+{% include badge-title.html text="SYNC" badge="success" titleh="2" title="QA + Exercises" %}
 
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+### QA
 
-<script id="dsq-count-scr" src="//inmunoinformatics.disqus.com/count.js" async></script>
-{% endif %}
+- Recording [[MP4]](#)
+
+### Exercises
+
+- Exercise [[Web]](http://teaching.healthtech.dtu.dk/36685/index.php/Exercise_on_CAR_T-cell_humanisation_and_de-immunisation)
+- Exercise [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/Protein_Drug_Deimmunization)
+
+## Learning Resources
+
+### Required
+
+None
+
+### Optional
+
+- Paper: Design and engineering of deimmunized biotherapeutics [[Web]](https://www.ncbi.nlm.nih.gov/pubmed/27322891)

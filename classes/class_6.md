@@ -29,7 +29,7 @@ published: True
 
 ### QA 
 
-- Recording [MP4](#)
+- Recording [[MP4]](https://drive.google.com/file/d/1s5T3xuLqXEC98tUZ-Ux0P3S-j6t1a2IX/view?usp=sharing)
 
 ### Exercise
 
