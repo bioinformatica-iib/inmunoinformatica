@@ -26,8 +26,9 @@ published: True
 
 ### Exercises
 
-- Exercise: Exercise on CAR T-cell humanisation and de-immunisation [[Web]](http://teaching.healthtech.dtu.dk/36685/index.php/Exercise_on_CAR_T-cell_humanisation_and_de-immunisation)
 - Exercise: Protein Drug Deimmunization [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/Protein_Drug_Deimmunization)
+- Exercise: Exercise on CAR T-cell humanisation and de-immunisation [[Web]](http://teaching.healthtech.dtu.dk/36685/index.php/Exercise_on_CAR_T-cell_humanisation_and_de-immunisation)
+
 
 ## Learning Resources
 
