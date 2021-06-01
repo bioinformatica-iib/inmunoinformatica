@@ -43,7 +43,6 @@ Lecture: Slides [[PDF]](http://www.cbs.dtu.dk/courses/27685.imm/presentations/Ca
 
 - Guidelines [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/T-Cell_Receptor_Repertoires#Retrieve_and_Upload_Repertoire_data)
 - Answers [[Web]](https://teaching.healthtech.dtu.dk/material/22145/ljess/repertoire_analysis.html)
-- DTU Recap [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/HP_exercise_recap_single_cell_netTCR.mp4)
 
 ### Exercise: IEDB
 
