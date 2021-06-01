@@ -34,6 +34,7 @@ published: True
 ### Exercise
 
 - Guidelines [[Web]](https://teaching.healthtech.dtu.dk/22145/index.php/Single_cell_technologies_for_T-cell_epitopes)
+- DTU Recap [[MP4]](http://www.cbs.dtu.dk/courses/27685.imm/recordings/22145_2021/HP_exercise_recap_single_cell_netTCR.mp4)
 
 ## Learning Resources
 
