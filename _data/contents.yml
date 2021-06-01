@@ -27,8 +27,6 @@
     - name: Team Project
       link: #/
       items:  
-        - name: Instructions
-          link: /team-project/instructions/
-        - name: Ideas
-          link: /team-project/ideas/
+        - name: Projects & Examen
+          link: /evaluation/
         
