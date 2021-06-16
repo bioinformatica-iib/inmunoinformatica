@@ -7,9 +7,7 @@ hide_hero: True
 
 # Poster Presentations
 
-[Poster Presentations](https://drive.google.com/file/d/108-pfEzg7OeCgetY3Z_ATlQCv8h9dsH4/view?usp=sharing)
-
-<iframe src="https://drive.google.com/file/d/108-pfEzg7OeCgetY3Z_ATlQCv8h9dsH4/preview" width="800" height="440"></iframe>
+[Poster Presentations [MP4]](https://drive.google.com/file/d/108-pfEzg7OeCgetY3Z_ATlQCv8h9dsH4/view?usp=sharing)
 
 # Posters
 
